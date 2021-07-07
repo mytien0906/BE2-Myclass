@@ -1,0 +1,26 @@
+{
+    "name": "thaithimytien/myclass",
+    "description": "Manage class",
+    "keywords": [
+        "myclass",
+        "laravel 8x my class"
+    ],
+    "authors": [
+        {
+            "name": "ThaiThiMyTien",
+            "email": "thaithimytien0906@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "foostart/package-slideshow": "*",
+        "foostart/package-filemanager": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ThaiThiMyTien\\Myclass\\": "/"
+        }
+    },
+    "minimum-stability": "dev"
+}
